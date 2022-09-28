@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "1.0.0",
+  "description": "Simple Web App",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KindleTheBonfire/IntroToNode.git"
+  },
+  "author": "Felix Arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KindleTheBonfire/IntroToNode/issues"
+  },
+  "homepage": "https://github.com/KindleTheBonfire/IntroToNode#readme"
+}
